@@ -154,3 +154,7 @@ The selected model represents a candidate for a production prototype rather than
 
 Additional testing with actual camera hardware and real-world sorting conditions would be required before deployment.
 
+## AI Use
+
+AI was used to create the outline for the readme.md and quickly convert some results to useful visual graphs using both seaborn and matplot.lib.
+
